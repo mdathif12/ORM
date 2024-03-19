@@ -47,7 +47,8 @@ class railwayAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![image](https://github.com/mdathif12/ORM/assets/149365313/62f758be-f3ba-4150-a121-b284a2abe14a)
+![image](https://github.com/mdathif12/ORM/assets/149365313/09a8d644-bc73-444f-a344-39c5a55c8c90)
+
 
 
 
